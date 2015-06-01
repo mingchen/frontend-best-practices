@@ -1,6 +1,14 @@
 Web前端开发最佳实践
 ===================
 
+**目录**
+
+  * [Web前端开发最佳实践](#web%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5)
+    * [CSS](#css)
+      * [使用<code>em</code>作为<code>font-size</code>的单位](#%E4%BD%BF%E7%94%A8em%E4%BD%9C%E4%B8%BAfont-size%E7%9A%84%E5%8D%95%E4%BD%8D)
+      * [使用数字来指定颜色](#%E4%BD%BF%E7%94%A8%E6%95%B0%E5%AD%97%E6%9D%A5%E6%8C%87%E5%AE%9A%E9%A2%9C%E8%89%B2)
+    * [参考](#%E5%8F%82%E8%80%83)
+
 
 ## CSS
 
